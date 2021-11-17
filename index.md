@@ -7,6 +7,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[index.html.txt](https://github.com/sebadtian1614/Pagina-web-sebastian/files/7558277/index.html.txt)
+![imagen (1)](https://user-images.githubusercontent.com/94504279/142290231-8e066d54-3195-46db-8a35-38c9634621d4.jpg)
 
 ```markdown
 Syntax highlighted code block
